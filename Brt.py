@@ -5,7 +5,7 @@ import sys
 import time
 def jalan (s):
   for z in s + '/n' :
-    sys.stdout.write.(z)
+    sys.stdout.write(z)
     sys.stdout.flush()
     time.sleep(1. /50)
 
